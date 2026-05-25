@@ -1,5 +1,7 @@
 # Issuu PDF Downloader
 
+Confirmed still works - May 2026
+
 A command-line tool to download and convert Issuu publications to PDF format with preserved text layout. Vibe coded using Claude Code. 
 
 ## Key Features
